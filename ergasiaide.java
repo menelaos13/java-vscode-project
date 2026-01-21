@@ -12,8 +12,8 @@ public class Student {
     }
 }
 
-public class Main {
-    public static void main(String[] args) {
+public class main {
+    public static void ergasiaide(String[] args) {
         Student student1 = new Student("Menelaos", 20);
         Student student2 = new Student("Basilhs", 22);
 
